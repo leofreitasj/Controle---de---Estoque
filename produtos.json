@@ -1,0 +1,52 @@
+[
+    {
+        "id":"0001",
+        "nome":"Desinfetante",
+        "marca":"Pinho",
+        "Fornecedor":"P&G"
+    },
+    {
+        "id":"0002",
+        "nome":"Sabão",
+        "marca":"Surf",
+        "Fornecedor":"Elite"
+    },
+    
+    {
+        "id":"0003",
+        "nome":"Pano",
+        "marca":"Duralex",
+        "Fornecedor":"Genérico"
+    },
+    
+    {
+        "id":"0004",
+        "nome":"Rodo",
+        "marca":"Fex",
+        "Fornecedor":"DBão"
+    },
+    
+    {
+        "id":"0005",
+        "nome":"Vasoura",
+        "marca":"Limpol",
+        "Fornecedor":"P&G"
+    },
+
+    {
+        "id":"0006",
+        "nome":"Balde",
+        "marca":"Limpax",
+        "Fornecedor":"Limpol"
+    },
+    {
+        "id":"0007",
+        "nome":"Alcool",
+        "marca":"Dalcool",
+        "Fornecedor":"limpa"
+    }
+    
+    
+    
+
+]
