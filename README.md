@@ -3,7 +3,8 @@
 ## Lista de Funcionalidades
 
 - [X] Ter uma lista de produtos
-- [ ] Interface da lista
+- [X] Interface da lista
+- [ ] Ler o arquivo da lista de produtos
 - [ ] Conectar lista com banco de dados
 - [ ] Adicionar um item na lista de produdos
 - [ ] Interface para adcionar item na lista

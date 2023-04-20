@@ -3,47 +3,54 @@
         "id":"0001",
         "nome":"Desinfetante",
         "marca":"Pinho",
-        "Fornecedor":"P&G"
+        "Fornecedor":"P&G",
+        "qtd": "1"
     },
     {
         "id":"0002",
         "nome":"Sabão",
         "marca":"Surf",
-        "Fornecedor":"Elite"
+        "Fornecedor":"Elite",
+        "qtd": "1"
     },
     
     {
         "id":"0003",
         "nome":"Pano",
         "marca":"Duralex",
-        "Fornecedor":"Genérico"
+        "Fornecedor":"Genérico",
+        "qtd": "1"
     },
     
     {
         "id":"0004",
         "nome":"Rodo",
         "marca":"Fex",
-        "Fornecedor":"DBão"
+        "Fornecedor":"DBão",
+        "qtd": "1"
     },
     
     {
         "id":"0005",
         "nome":"Vasoura",
         "marca":"Limpol",
-        "Fornecedor":"P&G"
+        "Fornecedor":"P&G",
+        "qtd": "1"
     },
 
     {
         "id":"0006",
         "nome":"Balde",
         "marca":"Limpax",
-        "Fornecedor":"Limpol"
+        "Fornecedor":"Limpol",
+        "qtd": "1"
     },
     {
         "id":"0007",
         "nome":"Alcool",
         "marca":"Dalcool",
-        "Fornecedor":"limpa"
+        "Fornecedor":"limpa",
+        "qtd": "1"
     }
     
     
