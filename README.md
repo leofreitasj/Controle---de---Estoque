@@ -2,8 +2,9 @@
 
 ## Lista de Funcionalidades
 
-- [ ] Ter uma lista de produtos
+- [X] Ter uma lista de produtos
 - [ ] Interface da lista
+- [ ] Conectar lista com banco de dados
 - [ ] Adicionar um item na lista de produdos
 - [ ] Interface para adcionar item na lista
 - [ ] Remover um item da lista de produtos
